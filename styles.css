@@ -1,0 +1,158 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: block;
+}
+body {
+	background-color: #FFF6F6;
+	padding: 0;
+}
+h1 {
+	color: #FB929E;
+	margin: 20px;
+	font-family: 'Quattrocento Sans', serif;
+	font-style: normal;
+	font-weight: bold;
+}
+p {
+	color: #303030;
+	font-size: 1.25em;
+	line-height: 1.6;
+	margin: 20px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.caption {
+	font-family: 'Quattrocento Sans', sans-serif;
+	text-align: center;
+}
+.header2 {
+	font-size: 2.5em;
+}
+.row {
+	display: inline-block;
+	margin: auto;
+}
+.link-gallery {
+	margin:30px;
+	padding:30px;
+	color: #FB929E;
+	font-size: 1.5em;
+	text-decoration: none;
+	border-radius: 10px;
+	display: inline-block;
+
+}
+.nav ul{
+	margin:10px;
+	padding:10px;
+}
+.nav li {
+	display: inline-block;
+}
+.nav a {
+	padding: 1em;
+	color: #FB929E;
+	text-decoration: none;
+}
+.nav a:hover {
+	background-color: #FFDFDF;
+	text-decoration-thickness: 5px;
+	font-weight: bold;
+}
+.nav {
+	text-align: right;
+	font-size: 1.3em;
+	padding: 0 1%;
+	font-family: Quattrocento Sans;
+}
+.title-name {
+	font-size: 4em;
+	margin: 40px 20px;
+}
+.portrait {
+	height: 350px;
+	width: 350px;
+	padding: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	display: block;
+	margin: 0 20px;
+	float: right;
+}
+.first-section {
+	margin-bottom: 100px;
+}
+.second-grade {
+	height: 400px;
+	width: 350px;
+	padding: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	margin: 10px;
+}
+.margin {
+	margin: 0 40px;
+}
+.second-section {
+	margin-bottom: 40px;
+}
+.gallery-picture {
+	height: 400px;
+	width: 350px;
+	padding: 10px;
+	margin: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.grid-text {
+	color: #303030;
+	font-size: 1.3em;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+.img-hover:hover {
+	background-color: #FB929E;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}
+.TMOM1 {
+	width: 350px;
+	height: 400px;
+	padding: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	margin: 10px;
+}
+.skinny-pic {
+	width: 320px;
+	height: 400px;
+	padding: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	margin: 10px;
+
+}
+.float-right {
+	display: block;
+	float: right;
+}
+.horizontal-pic {
+	width: 510px;
+	height: 400px;
+	padding: 10px;
+	background-color: #FFDFDF;
+	border-radius: 5%;
+	margin: 15px;	
+}
+.footer {
+	padding: 20px;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 0.75em;
+}
+span {
+	margin-right: 50px;
+}
